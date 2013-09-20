@@ -56,7 +56,7 @@ examples.  As of Sep 2013, the book is about 50% complete towards a first draft.
 It is an open-source work, and contributions are welcome from people who understand
 what they are talking about.
 
-* https://github.com/danielravennest/seed-factory-project.git
+* https://github.com/seed-factory-project/data.git
 
 This is the GitHub repository for the project.  It is intended to contain software
 code, design files, and other file types related to the Seed Factory Project that

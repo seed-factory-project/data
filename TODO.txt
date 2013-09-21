@@ -1,0 +1,44 @@
+=============================================
+TO DO List for Seed Factory Project Technical
+=============================================
+
+------------------
+1.0 - Project Data
+------------------
+
+- 1.1 Seed Factory Book
+
+This book is intended to be an engineering introduction to the concept of "seed factories", self-expanding
+automated factories, where part of the output is parts to expand the factory.
+
+Tasks:
+
+  -- Continue basic text writeup, especially the design example sections
+  -- Upgrade photos and diagrams
+  
+
+- 1.2 Technical Library
+
+This is intended to supply source data in science and engineering, so that the seed factory designs are
+based on good information.  Current status includes about 235 paper technical books, and 41.2 GB of ebook
+content.
+
+Tasks:
+
+  -- Complete PDF optimization and standardize on Acrobat 9.0 - Status is 7.81 GB completed
+  -- Upload legally sharable portion of data so other project members can use it
+  -- Create document index for non-sharable items so other project members know what is being used.
+  -- Backup entire library offsite, and local backups
+  -- Solicit suggestions for updates/additions to library
+  
+
+- 1.3 Engineering Data
+
+This includes drawings, calculations, notes, software code, and other design information for the project.
+
+Tasks:
+
+  -- Upload existing data to this "/data" repository, and create folders as needed to organize it.
+  
+
+- 1.4 Organization Data

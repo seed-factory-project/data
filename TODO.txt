@@ -42,3 +42,11 @@ Tasks:
   
 
 - 1.4 Organization Data
+
+This includes people and organization information for the project.
+
+Tasks:
+
+  -- Identify needed skills - So far we need system modeling and simulation engineer, and software architect.
+
+
